@@ -28,8 +28,19 @@ max(num1,num2)
 
 ```
 
+
+
+
+
 ### OUTPUT
-[Screenshot 2025-05-28 085427](https://github.com/user-attachments/assets/b9f42d67-2d1a-4b42-a9ce-43cda5d61039)
+![Screenshot 2025-05-28 085427](https://github.com/user-attachments/assets/f531c975-712d-475c-9e13-e72dbea6e0c8)
+
+
+
+
+
+
+
 ### RESULT
 Thus the python program to check a relationship between two numbers has been implemented and executed successfully.
 ```
