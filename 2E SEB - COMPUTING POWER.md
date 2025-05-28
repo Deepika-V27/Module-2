@@ -22,7 +22,12 @@ To write a Python program to compute the power of a given number using an approp
 ### PROGRAM
 
 ```
+exp=int(input())
+res=pow(base,exp)
+print(f"Power of the given number is: {res}")
 ```
 ### OUTPUT
+![image](https://github.com/user-attachments/assets/e3336ee1-4181-4209-b857-b1140706b974)
 
 ### RESULT
+Thus the python program to compute the power using builtin function has been implemented and executed successfully.
