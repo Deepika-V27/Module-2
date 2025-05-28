@@ -23,14 +23,19 @@ To create a Python program for printing `n` natural numbers using a `for` loop.
 ```python
 #Reg.NO
 #Name : DEEPIKA v
-#Write your Code here
+#n=int(input())
+print("Natural Numbers are :")
+for i in range(1,n+1,1):
+    print(i)
 
 ```
 ### OUTPUT
-```
+```![image](https://github.com/user-attachments/assets/81c3eded-3d7d-4fde-a53d-f1ce5a22447f)
+
 
 ```
 ### RESULT
+Thus the python program for printing n natural numbers has been implemented and executed successfully.
 ```
 
 ```
