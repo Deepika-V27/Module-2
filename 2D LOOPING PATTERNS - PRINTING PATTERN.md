@@ -24,7 +24,7 @@ To write a Python program to print a triangular star pattern using loops.
 ---
 
 ### PROGRAM
-```
+
 #Reg.No:212222020006
 #Name:DEEPIKA V
 ```
