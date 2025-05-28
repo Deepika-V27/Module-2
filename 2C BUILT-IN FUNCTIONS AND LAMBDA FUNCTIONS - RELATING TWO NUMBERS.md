@@ -30,7 +30,8 @@ max(num1,num2)
 
 ### OUTPUT
 
-```![image](https://github.com/user-attachments/assets/f9fadf9a-9f49-4cbc-a86d-da791094f71d)
+![image](https://github.com/user-attachments/assets/0e44a03e-310d-4e84-9f0a-7691cd620c9d)
+
 
 
 ```
