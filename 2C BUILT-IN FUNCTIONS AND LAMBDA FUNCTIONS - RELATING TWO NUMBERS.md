@@ -22,6 +22,7 @@ To write a Python program to check the relation between two numbers — whether 
 ---
 
 ### PROGRAM
+```
 num2=eval(input())
 max=lambda x,y
 print(f"{num2} is smaller than {num1}") 
