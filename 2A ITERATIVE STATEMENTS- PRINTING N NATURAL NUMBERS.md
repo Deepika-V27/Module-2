@@ -22,7 +22,7 @@ To create a Python program for printing `n` natural numbers using a `for` loop.
 
 ```python
 #Reg.NO
-#Name
+#Name : DEEPIKA v
 #Write your Code here
 
 ```
