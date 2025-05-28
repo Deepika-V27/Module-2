@@ -27,6 +27,7 @@ To write a Python program to print a triangular star pattern using loops.
 ```
 #Reg.No:212222020006
 #Name:DEEPIKA V
+```
 i=0
 for rows in range(0,n):
     for cols in range(((n-rows-1)*2)+i):
