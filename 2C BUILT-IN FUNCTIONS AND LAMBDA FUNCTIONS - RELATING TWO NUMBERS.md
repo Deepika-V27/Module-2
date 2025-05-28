@@ -22,19 +22,21 @@ To write a Python program to check the relation between two numbers — whether 
 ---
 
 ### PROGRAM
-
-```
+num2=eval(input())
+max=lambda x,y: print(f"{num2} is smaller than {num1}") if x>y else print(f"{num1} is smaller than {num2}")
+max(num1,num2)
 
 ```
 
 ### OUTPUT
 
-```
+```![image](https://github.com/user-attachments/assets/f9fadf9a-9f49-4cbc-a86d-da791094f71d)
+
 
 ```
 
 ### RESULT
-
+Thus the python program to check a relationship between two numbers has been implemented and executed successfully.
 ```
 
 ```
